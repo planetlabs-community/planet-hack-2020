@@ -6,8 +6,8 @@ Welcome to Planet Hack 2020.
 
 ## How to Participate
 
-- Use this repo's [issue tracker](https://github.com/planetlabs-community/planet-hack-2020/issues/new/choose) to introduce yourself, pitch a project idea,
-  or form a team
+- Use this repo's [issue tracker](https://github.com/planetlabs-community/planet-hack-2020/issues/new/choose) to [introduce yourself](https://github.com/planetlabs-community/planet-hack-2020/issues/new?assignees=&labels=introduction&template=hacker-introductions.md&title=%5BINTRO%5D+), [pitch a project idea](https://github.com/planetlabs-community/planet-hack-2020/issues/new?assignees=&labels=project+pitch&template=hack-project-idea.md&title=%5BPITCH%5D),
+  or [form a team](https://github.com/planetlabs-community/planet-hack-2020/issues/new?assignees=&labels=hack+team&template=form-a-team.md&title=%5BTEAM%5D).
 
 - Use this [Gitter room](https://gitter.im/planetlabs-community/planet-hack-2020?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to chat with other Planet Hack 2020 hackers
 
