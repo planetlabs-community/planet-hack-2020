@@ -18,9 +18,12 @@ Hack - but hacking should not begin until **Thursday, October 15th**!
 
 - On the morning of October 15th, join the Kickoff session via Zoom (information on how to join
   will be emailed to you)
+  
 - Following kickoff, hackers (whether working solo or in teams) will have until
   **5pm PDT** on **Friday, October 16th** to work on their ideas
+  
 - Before **5pm PDT** on the 16th, sign up to demo your hack adventures using [this form](https://docs.google.com/forms/d/e/1FAIpQLSc-9xa2D9dDEcQJ1E7l1IPMrzYzYiZeRvuyq9Ly0aaCI-K2Pg/viewform?usp=sf_link)
+
 - At **6pm PDT** on the 16th, join the Demo Party on Zoom: everyone that signs
   up to demo will get 5 minutes to show everyone what they worked on -
 remember, no one expects to _complete_ something from start-to-finish during a
@@ -61,8 +64,7 @@ key.
 **Note:** if you _already_ have a Planet account, global PlanetScope data
 access for the hackathon period will be added to your subscription if needed.
 
-### I don't know anything about Planet data or satellite imagery in general,
-where should I start?
+### I don't know anything about Planet data or satellite imagery in general, where should I start?
 
 - You may find this [Introduction to Geospatial Data](https://developers.planet.com/planetschool/geospatial-data/) useful, as well as this [Satellite Imagery Overview](https://developers.planet.com/planetschool/satellite-imagery/)
 
