@@ -16,18 +16,18 @@ Hack - but hacking should not begin until **Thursday, October 15th**!
 
 ## How Planet Hack 2020 Works
 
-- On the morning of October 15th, join the Kickoff session via Zoom (information on how to join
-  will be emailed to you)
+- At **9am PDT** on **Thursday, October 15th**, join the Kickoff session via Zoom (information on how to join will be emailed to you)
   
-- Following kickoff, hackers (whether working solo or in teams) will have until
-  **5pm PDT** on **Friday, October 16th** to work on their ideas
+- Following kickoff, hackers (whether working solo or in teams) will have until **5pm PDT** on **Friday, October 16th** to work on their ideas
+
+- Hackers & teams can choose to collaborate using whatever tools work best for them: you can request creation of a private team chat room by asking in the main [Gitter room](https://gitter.im/planetlabs-community/planet-hack-2020?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
+- Periodic check-ins and Planeteer Office Hours will take place over the two days of Planet Hack 2020: stay tuned to the [Gitter room](https://gitter.im/planetlabs-community/planet-hack-2020?utm_source=share-link&utm_medium=link&utm_campaign=share-link) for the latest updates
   
 - Before **5pm PDT** on the 16th, sign up to demo your hack adventures using [this form](https://docs.google.com/forms/d/e/1FAIpQLSc-9xa2D9dDEcQJ1E7l1IPMrzYzYiZeRvuyq9Ly0aaCI-K2Pg/viewform?usp=sf_link)
 
-- At **6pm PDT** on the 16th, join the Demo Party on Zoom: everyone that signs
-  up to demo will get 5 minutes to show everyone what they worked on -
-remember, no one expects to _complete_ something from start-to-finish during a
-hackathon, part of the fun is seeing what you can do in the time allotted!
+- At **6pm PDT** on the 16th, join the Demo Party on Zoom: everyone that signs up to demo will get 5 minutes to show everyone what they worked on -
+remember, no one expects to _complete_ something from start-to-finish during a hackathon, part of the fun is seeing what you can do in the time allotted!
 
 ## Contact Planet
 
