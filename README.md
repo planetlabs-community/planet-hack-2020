@@ -29,6 +29,24 @@ Hack - but hacking should not begin until **Thursday, October 15th**!
 - At **6pm PDT** on the 16th, join the Demo Party on Zoom: everyone that signs up to demo will get 5 minutes to show everyone what they worked on -
 remember, no one expects to _complete_ something from start-to-finish during a hackathon, part of the fun is seeing what you can do in the time allotted!
 
+## Zoom Office Hours
+
+During this two-day event, Planeteers (volunteers from Planet's engineering team) will be hosting virtual "office hours" in Zoom. Drop in to meet a Planeteer, get help, or ask questions.
+
+See below for a schedule of these office hours: Zoom links will be posted in the Gitter chat room prior to each event.
+
+| Day   |  Time |
+|-------|:-----:|
+| Thurs OCT 15 |  [10:00am-11:00am PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T10&p1=224) |
+| Thurs OCT 15 |  [12:00pm-1:00pm PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T12&p1=224) |
+| Thurs OCT 15 |  [1:00pm-2:00pm PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T13&p1=224) |
+| Thurs OCT 15 |  [2:00pm-3:00pm PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T14&p1=224) |
+| Fri OCT 16 |  [10:00am-11:00am PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201016T10&p1=224) |
+| Fri OCT 16 |  [12:00pm-1:00pm PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201016T12&p1=224) |
+| Fri OCT 16 |  [1:00pm-2:00pm PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201016T13&p1=224) |
+| Fri OCT 16 |  [2:00pm-3:00pm PDT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201016T14&p1=224) |
+
+
 ## Contact Planet
 
 Please reach out to [developers at planet dot com](mailto:developers@planet.com) with any questions, comments or concerns.
